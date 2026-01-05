@@ -19,7 +19,7 @@ The following repository you're seeing here is made and optimized for a Roblox g
 15. To do so, you simply type: "admin_stemap", and whatever your custom map's name is (it's usually custom_Map). Afterwards, you're done! Enjoy your custom map!
 
 # Credits
-CLawDann LLC for the original map
+CLawDann for the original map
 
 ROBLOX for the free models
 
